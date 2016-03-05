@@ -1,0 +1,63 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/ribaowei/" . ".emacs.d/")
+ ("/Users/ribaowei/go/src/github.com/anacrolix/" . "torrent/")
+ ("/Users/ribaowei/go/src/github.com/weiribao/" . "torrent/")
+ ("/Users/ribaowei/go/src/github.com/" . "anacrolix/")
+ ("/Users/ribaowei/go/src/" . "github.com/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/ribaowei/.emacs.d/"
+ "/Users/ribaowei/tmp/helloworld/src/"
+ "/Users/ribaowei/tmp/helloworld/"
+ "/Users/ribaowei/go/src/github.com/anacrolix/torrent/"
+ "/Users/ribaowei/go/src/github.com/weiribao/torrent/"
+ "/Users/ribaowei/tmp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "Makefile.in"
+ "Makefile.am"
+ "configure.in"
+ "reader.go"
+ "main.go"
+ "test.go"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/ribaowei/.emacs.d/" (21988 54905 0 0) "projectile.cache" "projectile-bookmarks.eld" "init.el" "ido.last~" "ido.last" "go/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".git/" "../" "./")
+
+ ("/Users/ribaowei/" (21988 54927 0 0) "workspace/" "VirtualBox VMs/" "tmp/" "thrift.tar.gz" "thrift/" "test.clj" "test-ctr/" "sent/" "root@10.4.67.59/" "Public/" "postponed/" "Pictures/" "NOTE_TO_SELF" "nfs/" "netfolder/" "Music/" "Movies/" "main.sublime-workspace" "main.sublime-project" "Mail/" "Library/" "jack/" "Google Drive/" "go/" "Downloads/" "Documents/" "devvm/" "dev_server/" "Desktop/" "deploywar.sh" "deployui.sh" "Creative Cloud Files/" "cpdb_entitytable/" "code/" "apps/" "Applications/" ".zshrc~" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-RWeiSJC-MBA-5.0.5" ".vimrc" ".viminfo" ".vim_runtime/" ".vim_mru_files" ".vim/" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".sbt/" ".oracle_jre_usage/" ".oh-my-zsh/" ".offlineimaprc" ".offlineimap/" ".npm/" ".node-gyp/" ".mutt/" ".m2/" ".links/" ".lein/" ".last_codereview_email_address" ".ivy2/" ".isyncrc" ".IdeaIC14/" ".idea.properties" ".hgignore_global" ".gitignore_global" ".gitconfig" ".git-prompt.sh" ".gem/" ".emacs.d.abckup/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".codereview_upload_cookies" ".CFUserTextEncoding" ".cassandra/" ".cache/" ".bzr.log" ".boot2docker/" ".bash_profile~" ".bash_profile" ".bash_history" ".atom/" ".arcrc" ".android/" "#.bash_profile#" "../" "./")
+
+ ("/Users/ribaowei/code/memcached/" (21988 52997 0 0) "version.sh" "version.pl" "version.m4" "util.h" "util.c" "trace.h" "timedrun.c" "thread.c" "testapp.c" "t/" "stats.h" "stats.c" "stamp-h1" "solaris_priv.c" "slabs.h" "slabs.c" "sizes.c" "scripts/" "sasl_defs.h" "sasl_defs.c" "README.md" "protocol_binary.h" "NEWS" "murmur3_hash.h" "murmur3_hash.c" "missing" "memcached_dtrace.d" "memcached.spec.in" "memcached.spec" "memcached.h" "memcached.c" "Makefile.in" "Makefile.am" "Makefile" "m4/" "LICENSE" "jenkins_hash.h" "jenkins_hash.c" "items.h" "items.c" "install-sh" "INSTALL" "hash.h" "hash.c" "HACKING" "globals.c" "Doxyfile" "doc/" "devtools/" "depcomp" "daemon.c" "COPYING" "CONTRIBUTING" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.h.in~" "config.h.in" "config.h" "config.guess" "compile" "ChangeLog" "cache.h" "cache.c" "BUILD" "autom4te.cache/" "autogen.sh" "AUTHORS" "assoc.h" "assoc.c" "aclocal.m4" ".shipit" ".gitignore" ".git/" ".deps/" "../" "./")
+
+ ("/Users/ribaowei/tmp/helloworld/src/" (21985 16442 0 0) "Makefile.in" "Makefile.am~" "Makefile.am" "Makefile" "main.o" "main.cc~" "main.cc" "helloworld.o" "helloworld.cc" "helloworld" ".deps/" "../" "./")
+
+ ("/Users/ribaowei/tmp/helloworld/" (21985 16354 0 0) "src/" "README" "NEWS" "missing" "Makefile.in" "Makefile.am" "Makefile" "install-sh" "INSTALL" "depcomp" "COPYING" "configure.in~" "configure.in" "configure" "config.status" "config.log" "ChangeLog" "autom4te.cache/" "AUTHORS" "aclocal.m4" "../" "./")
+
+ ("/Users/ribaowei/go/src/github.com/anacrolix/torrent/" (21969 4349 0 0) "worst_conns.go" "util/" "tracker/" "torrent_test.go" "torrent.go" "TODO" "testdata/" "t.go" "stateless.go" "README.md" "reader.go" "piecestate.go" "piece.go" "peer_protocol/" "ordered_test.go" "ordered.go" "NOTES" "mse/" "mmap_span/" "misc_test.go" "misc.go" "metainfo/" "magnet_test.go" "magnet.go" "logonce/" "LICENSE" "iplist/" "internal/" "fs/" "file.go" "example_test.go" "doc.go" "dht/" "data/" "connection_test.go" "connection.go" "config.go" "cmd/" "client_test.go" "client.go" "bencode/" ".git/" "../" "./")
+
+ ("/Users/ribaowei/go/src/github.com/anacrolix/" (21968 60860 0 0) "utp/" "torrent/" "sync/" "missinggo/" "jitter/" "envpprof/" "../" "./")
+
+ ("/Users/ribaowei/go/src/github.com/weiribao/torrent/" (21970 39362 0 0) "Major Lazer x DJ Snake feat. MØ - Lean On.mp3" "main.go~" "main.go" "Cop.Car.2015.HDRip.XViD-ETRG/" ".git/" ".#main.go" "#main.go#" "../" "./")
+
+ ("/Users/ribaowei/go/src/github.com/weiribao/" (21969 12398 0 0) "torrent/" "../" "./")
+
+ ("/Users/ribaowei/go/src/github.com/" (21969 12398 0 0) "willf/" "weiribao/" "tylertreat/" "stretchr/" "spacemonkeygo/" "ryszard/" "nsf/" "jessevdk/" "go-fsnotify/" "dustin/" "docopt/" "bradfitz/" "anacrolix/" "../" "./")
+
+ ("/Users/ribaowei/go/src/" (21968 60871 0 0) "launchpad.net/" "golang.org/" "github.com/" "code.google.com/" "bazil.org/" "9fans.net/" "../" "./")
+
+ ("/Users/ribaowei/go/" (21966 47162 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("/Users/ribaowei/tmp/" (21970 36919 0 0) "file" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
